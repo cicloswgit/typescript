@@ -1,0 +1,1 @@
+{"version":3,"file":"item_interface.js","sourceRoot":"","sources":["../src/item_interface.ts"],"names":[],"mappings":";AAOA,IAAI,QAAQ,GAAS;IACjB,IAAI,EAAE,QAAQ;IACd,KAAK,EAAE,GAAG;IAEV,aAAa,CAAC,OAAe;QACzB,OAAO,CAAC,GAAG,CAAC,OAAO,GAAG,GAAG,GAAE,IAAI,CAAC,IAAI,CAAC,CAAC;IAC1C,CAAC;CACJ,CAAA;AAED,QAAQ,CAAC,aAAa,CAAC,8BAA8B,CAAC,CAAC"}
